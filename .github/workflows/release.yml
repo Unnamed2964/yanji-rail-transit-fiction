@@ -65,4 +65,5 @@ jobs:
           body_path: release-body.md
           files: |
             RMP.webp
+            RMP.svg
             hsr.webp
